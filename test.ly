@@ -57,7 +57,7 @@
   >>
   \header { piece = \markup { \fontsize #3 \override #'(font-name . "LilyJAZZ Text") "Beginning of a Bill Evans Solo Transcription — “Time Remembered”" } }
   \layout { indent = 0 }
-  \midi { \tempo 4 = 140 }
+  \midi  { \tempo 4 = 140 }
 }
 
 %\markup { \override #'(font-name . "LilyJAZZ Text") "(Example taken from Frank Sikora’s “Neue Jazz-Harmonielehre”)" }

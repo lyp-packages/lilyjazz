@@ -2,6 +2,8 @@
 
 This package provides the LilyJazz open-source font for lilypond.
 
+Original code by Torsten Hämmerle.
+
 ## Installation
 
 Install using [lyp](https://github.com/noteflakes/lyp):
