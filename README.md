@@ -9,7 +9,7 @@ Original code by Torsten Hämmerle.
 Install using [lyp](https://github.com/noteflakes/lyp):
 
 ```bash
-lyp install lilyjazz
+$ lyp install lilyjazz
 ```
 
 ## Usage
