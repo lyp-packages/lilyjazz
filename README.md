@@ -27,7 +27,7 @@ $ lyp install lilyjazz
 
 ```
 
-For more details see the included [example](/noteflakes/lyp-lilyjazz/blob/master/test.ly).
+For more details see the included [example](https://github.com/noteflakes/lyp-lilyjazz/blob/master/test.ly).
 
 ## Compatibility with Lilypond versions
 
