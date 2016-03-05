@@ -1,4 +1,4 @@
-# lyp-lilyjazz - LilyJazz font package for lilypond
+# lilyjazz: LilyJazz font package for lilypond
 
 This package provides the LilyJazz open-source font for lilypond.
 
