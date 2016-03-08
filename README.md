@@ -2,7 +2,7 @@
 
 This package provides the LilyJazz open-source font for lilypond.
 
-Original code by Torsten Hämmerle.
+Original code by Torsten Hämmerle and Abraham Lee. For more information on producing Jazz lead sheets with Lilypond, checkout Abraham's [blog post](http://leighverlag.blogspot.fr/2015/12/mimicking-real-book-look.html).
 
 ## Installation
 
@@ -27,7 +27,9 @@ $ lyp install lilyjazz
 
 ```
 
-For more details see the included [example](https://github.com/noteflakes/lyp-lilyjazz/blob/master/test.ly).
+For more details see the included [example](https://github.com/noteflakes/lyp-lilyjazz/blob/master/test/test.ly).
+
+Another example is a "real book" style setting of ["All Of Me"](https://github.com/noteflakes/lyp-lilyjazz/blob/master/test/allofme.ly).
 
 ## Compatibility with Lilypond versions
 
